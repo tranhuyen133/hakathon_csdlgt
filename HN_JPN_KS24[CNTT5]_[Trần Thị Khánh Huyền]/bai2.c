@@ -64,7 +64,7 @@ int main() {
     char url[MAX_URL];
 
     do {
-        printf("\n----HISTORY EEB -----\n");
+        printf("\n----HISTORY WEB -----\n");
         printf("1. Truy cap trang mOi\n");
         printf("2. Quay lai (Back)\n");
         printf("3. Di toi (Forward)\n");
